@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run AI Escape Room",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}\\aipbl.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
